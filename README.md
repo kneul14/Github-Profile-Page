@@ -9,16 +9,19 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C%20Sharp-a83281?style=for-the-badge&logo=Csharp&logoColor=white%22">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/CSharp-a83281?style=for-the-badge&logo=Csharp&logoColor=white%22">
 </div>
 </p>
 
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=#007ACC">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=#007ACC">
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Substance%20Painter-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </div>
 </p>### Hi there 👋
 
