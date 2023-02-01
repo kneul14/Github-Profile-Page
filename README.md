@@ -33,8 +33,8 @@
 </p>
 ### Hallå 👋
 
-- 🔭 I’m currently working on: My portfolio
-- 🌱 I’m currently learning: Phython
+- 🔭 I’m currently working on: My portfolio for Games Design
+- 🌱 I’m currently learning: Python
 - 💬 Ask me about: My Erasmus+ study abroad year in Sweden!
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
