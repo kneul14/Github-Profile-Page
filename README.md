@@ -36,7 +36,7 @@
 - 🔭 I’m currently working on: My portfolio for Games Design
 - 🌱 I’m currently learning: Python
 - 💬 Ask me about: My Erasmus+ study abroad year in Sweden!
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/katherine-neul-a3368a175/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: in photos of space, if a star appears blue-shifted, it means it's moving closer towards Earth, red-shifted is the star moving away from Earth.
 
