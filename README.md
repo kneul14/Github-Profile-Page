@@ -34,7 +34,7 @@
 ### Hallå 👋
 
 - 🔭 I’m currently working on: My portfolio for Games Design
-- 🌱 I’m currently learning: Cuda API and Advances GPU coding.
+- 🌱 I’m currently learning: Cuda API and Advanced GPU coding.
 - 💬 Ask me about: My Erasmus+ study abroad year in Sweden!
 - 📫 How to reach me: https://www.linkedin.com/in/katherine-neul-a3368a175/
 - 😄 Pronouns: She/Her
