@@ -46,7 +46,7 @@
 ### Hallå 👋, I'm Katherine Neul!
 
 - 🔭 **Current Project**: I'm working on my portfolio for Games Design.
-- 🌱 **Currently Learning**: Cuda API and Advanced GPU coding.
+- 🌱 **Currently Learning**: How to make an awesome portfolio.
 - 💬 **Ask Me About**: My Erasmus+ study abroad year in Sweden!
 - 📫 **How to Reach Me**: [LinkedIn Profile](https://www.linkedin.com/in/katherine-neul-a3368a175/)
 - 😄 **Pronouns**: She/Her
