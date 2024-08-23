@@ -52,6 +52,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: in photos of space, if a star appears blue-shifted, it means it's moving closer towards Earth, red-shifted is the star moving away from Earth.
 
+<br>
+<br>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kneul14)
 
 
