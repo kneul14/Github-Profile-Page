@@ -7,6 +7,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=99A98F&center=true&vCenter=true&repeat=false&width=650&height=30&lines=Technical+Software+and+Games+Developer" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">  
+</p>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -40,6 +43,13 @@
   <img src="https://img.shields.io/badge/Substance%20Painter-FFFFFF.svg?style=for-the-badge&logo=adobe&logoColor=red">
 </div>
 </p>
+
+<p align="center">  
+</p>
+
+<p align="center">  
+</p>
+
 ### Hallå 👋
 
 - 🔭 I’m currently working on: My portfolio for Games Design
