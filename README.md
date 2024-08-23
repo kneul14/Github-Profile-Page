@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 </p>
 
-### Tools & Frameworks
+### Tools, Frameworks & GAme Engines
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=#007ACC">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=#007ACC"> 
@@ -24,9 +24,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-### 3D & Game Development
+### 3D Creation
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Maya-1775C1.svg?style=for-the-badge&logo=autodesk&logoColor=white">
   <img src="https://img.shields.io/badge/Substance%20Painter-FFFFFF.svg?style=for-the-badge&logo=adobe&logoColor=red">
 </p>
 
