@@ -46,7 +46,7 @@
 ### Hallå 👋
 
 - 🔭 I’m currently working on: My portfolio for Games Design
-- 🌱 I’m currently learning: Cuda API and Advanced GPU coding.
+- 🌱 I’m currently learning: how to make an awesome portfolio.
 - 💬 Ask me about: My Erasmus+ study abroad year in Sweden!
 - 📫 How to reach me: https://www.linkedin.com/in/katherine-neul-a3368a175/
 - 😄 Pronouns: She/Her
@@ -56,19 +56,3 @@
 <br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kneul14)
-
-
-<!--
-**kneul14/kneul14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...https://www.youtube.com/watch?v=KIuOvs4mKOg
--->
