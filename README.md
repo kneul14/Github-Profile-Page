@@ -3,9 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&size=25&pause=1000&color=FFF8DE&background=99A98F&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+Katherine+Neul's+GitHub;Technical+Software+and+Games+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">  
-  <a /></a>
-</p>
+<br>
 
 <p>
 <div align="center">
@@ -41,13 +39,9 @@
 </div>
 </p>
 
-<p align="center">  
-  <a /></a>
-</p>
+<be>
 
-<p align="center">  
-  <a /></a>
-</p>
+<br>
 
 ### Hallå 👋
 
