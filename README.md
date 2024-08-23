@@ -41,16 +41,18 @@
 
 <br>
 
-### Hallå 👋
+## 🌟 About Me
 
-- 🔭 I’m currently working on: My portfolio for Games Design
-- 🌱 I’m currently learning: how to make an awesome portfolio.
-- 💬 Ask me about: My Erasmus+ study abroad year in Sweden!
-- 📫 How to reach me: https://www.linkedin.com/in/katherine-neul-a3368a175/
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: in photos of space, if a star appears blue-shifted, it means it's moving closer towards Earth, red-shifted is the star moving away from Earth.
+### Hallå 👋, I'm Katherine Neul!
+
+- 🔭 **Current Project**: I'm working on my portfolio for Games Design.
+- 🌱 **Currently Learning**: Cuda API and Advanced GPU coding.
+- 💬 **Ask Me About**: My Erasmus+ study abroad year in Sweden!
+- 📫 **How to Reach Me**: [LinkedIn Profile](https://www.linkedin.com/in/katherine-neul-a3368a175/)
+- 😄 **Pronouns**: She/Her
+- ⚡ **Fun Fact**: In photos of space, if a star appears blue-shifted, it means it's moving closer towards Earth; red-shifted means it's moving away.
 
 <br>
-<br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kneul14)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kneul14)
+
